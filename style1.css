@@ -1,0 +1,49 @@
+.color1{
+    background-color: #FFC0CB;
+}
+.color2{
+    background-color: black;
+}
+.color3{
+    background-color: #E17F93;
+}
+.color4{
+    background-color: #D19EA3;
+}
+.untukbanner{
+    height: 80vh;
+    background: linear-gradient(rgba(0,0,0,0.1),rgba(0,0,0,0.1)), url('foto/desktop.jpg');
+}
+.untukhighlighted{
+    height: 250px;
+}
+.sep1{
+    background: linear-gradient(rgba(0,0,0,0), rgba(0,0,0,0)), url('foto/3eef38a4409f0ce4dcf4a33bb098209a-sepatu1.jpg');
+    background-size: cover;
+    background-position: center;
+}
+.sep2{
+    background: linear-gradient(rgba(0,0,0,0), rgba(0,0,0,0)), url('foto/74ab52ed29ea051dbd976d69e81470b9-sepatu2.jpg');
+    background-size: cover;
+    background-position: center;   
+}
+.sep4{
+    background: linear-gradient(rgba(0,0,0,0), rgba(0,0,0,0)), url('foto/6cdc9811e0816f71de68a3189faedfaf-sepatu4.jpg');
+    background-size: cover;
+    background-position: center;
+}
+.no-decoration{
+    text-decoration: none;
+    color: black;
+}
+
+.no-decoration:hover{
+    color: #E17F93;
+}
+.font{
+    font-family: Merriweather;
+}
+.harga{
+    font-size: 20px;
+    color: #E17F93;
+}
